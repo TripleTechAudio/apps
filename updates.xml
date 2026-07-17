@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <versions>
   <version name="RadioMama-macOS" num="1.2.0" url="https://github.com/TripleTechAudio/apps/releases/download/RadioMama-v1.2.0/RadioMama-1.2.0-macOS.pkg" />
+  <version name="Pulsar-macOS" num="1.0.6" url="https://github.com/TripleTechAudio/apps/releases/download/Pulsar-v1.0.6/Pulsar-1.0.6-macOS.pkg" />
 </versions>
